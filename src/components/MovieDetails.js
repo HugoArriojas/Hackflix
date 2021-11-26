@@ -24,6 +24,7 @@ const MovieDetails = () => {
         })
     }, [movieID.movieID])
 
+    
 
     // return (
     //     <div className="poster">
