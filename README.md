@@ -2,7 +2,7 @@
 
 This was an example exercise for React done at Juno College
 
-
+CSS not written by me, this was a codealong
 
 ************************************************************************
 
